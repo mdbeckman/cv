@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.16)  23 MAY 2015 17:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.16)  27 AUG 2015 10:47
 entering extended mode
 **BeckmanCV.tex
-("C:\Users\beckmm2\Google Drive\Resume-CV\_LaTeX CV\BeckmanCV.tex"
+(\\mspm1bnas03\home27\beckmm2\GitHub\cv\cv\BeckmanCV.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("C:\Users\beckmm2\Google Drive\Resume-CV\_LaTeX CV\resume.cls"
+(\\mspm1bnas03\home27\beckmm2\GitHub\cv\cv\resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
@@ -82,7 +82,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Users\beckmm2\Google Drive\Resume-CV\_LaTeX CV\BeckmanCV.aux")
+(\\mspm1bnas03\home27\beckmm2\GitHub\cv\cv\BeckmanCV.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
@@ -158,24 +158,23 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [5]
-("C:\Users\beckmm2\Google Drive\Resume-CV\_LaTeX CV\BeckmanCV.aux") ) 
+ [5] (\\mspm1bnas03\home27\beckmm2\GitHub\cv\cv\BeckmanCV.aux) ) 
 Here is how much of TeX's memory you used:
  952 strings out of 493921
- 13335 string characters out of 3144869
+ 13263 string characters out of 3144869
  71658 words of memory out of 3000000
  4282 multiletter control sequences out of 15000+200000
  7807 words of font info for 28 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,8n,21p,530b,296s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on BeckmanCV.pdf (5 pages, 113765 bytes).
+<C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on BeckmanCV.pdf (5 pages, 114017 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
